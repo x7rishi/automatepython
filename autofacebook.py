@@ -14,7 +14,3 @@ time.sleep(2)
 browser.find_element_by_name("pass").send_keys("qwert1234`")
 time.sleep(3)
 browser.find_element_by_xpath("//*[@id='u_0_8']").send_keys(Keys.ENTER)
-#is it working
-def push():
-    var=324
-    print ("test successful")
