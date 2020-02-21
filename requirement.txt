@@ -1,0 +1,18 @@
+python 3.7.4
+selenium
+mime 
+InstaPy 
+
+important 
+search webdriver for your Browser and put under the src folder 
+otherwise program will crash with error meassage with no chrome driver.
+is found
+
+link to the chrome driver is 
+https://chromedriver.chromium.org/
+
+link to the firefox driver : 
+https://github.com/mozilla/geckodriver/releases
+
+
+By default chromedriver80 and 76 already present in the source folder
