@@ -17,10 +17,10 @@ Other Requirement mentioned in requirement.txt file
 enter the topic of your want and press the start button it start the automate process with your browser which has driver installed and path mentioned in it.
 
 also it will be smooth scroll based on the timer - it will depend of user time tack to read a page
-![Wikipedia](../other/wikipedia.png "wikipedia")
+![Wikipedia](./other/wikipedia.png "wikipedia")
 #### Quick Email Send Application
 this is Application which will be sent multiple email to the Receipients with the formatted message body and Subject
-![email sender](../other/email.png)
+![email sender](./other/email.png)
 #### InstaGram Automate Application
 
 This  Application took me more time than the Application which i made Earlier
@@ -31,7 +31,7 @@ You just have to enter your Intagram user id and Password and then enter the has
 
 there is default Comments with emoji already i written in the instragram-main.py file 
 but if you want to enter your own comments than enter into the comments text entry box otherwise default Comment will be used.
-![Intagram pic](../other/instagram.png)
+![Intagram pic](./other/instagram.png)
 
 
 
