@@ -1,4 +1,4 @@
-# Automate with Python
+# Automate Through Python
 Three GUI based Desktop Application made on python.
 --
 1. Wikipedia Auto downloader (by using Selenuim)
